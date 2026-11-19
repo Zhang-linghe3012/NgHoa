@@ -1,8 +1,8 @@
 "use strict";
 
 const CONFIG = {
-  password: "love you",
-  hint: "Gợi ý: ba từ thật ngọt ngào",
+  password: "1911",
+  hint: "Gợi ý: bốn chữ số, ngày 19/11",
 };
 
 const screenEls = {
